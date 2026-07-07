@@ -93,6 +93,14 @@ Directory locations can be configured in the **User Settings** section.
 
 ---
 
+# Data
+
+The experimental clonogenic assay images are not included in this repository.
+
+To reproduce the analysis, place datasets into the synthetic and experimental folders.
+
+Example images may be provided where permission allows.
+
 ## Outputs
 
 The pipeline generates:
